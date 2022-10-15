@@ -3,4 +3,4 @@ Python game
 
 install python3 
  
-compile alien_invasion.py
+python3 alien_invasion.py
