@@ -1,6 +1,6 @@
 Python game 
 
 
-install python3 
+1.install python3 
  
-python3 alien_invasion.py
+2.python3 alien_invasion.py
